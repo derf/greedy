@@ -1,0 +1,84 @@
+keycode  23 =             Tab  dead_abovering     dead_ogonek   dead_abovedot
+                    
+keycode  49 =          dollar      asciitilde        EuroSign      dead_tilde
+keycode  10 =       ampersand         percent      dead_breve      dead_caron
+keycode  11 =     bracketleft               7           U201E           U201A
+keycode  12 =       braceleft               5           U201C           U2018
+keycode  13 =      braceright               3           U201D           U2019
+keycode  14 =       parenleft               1           U2039        NoSymbol
+keycode  15 =           equal               9           U2260        NoSymbol
+keycode  16 =        asterisk               0           U22C5        NoSymbol
+keycode  17 =      parenright               2           U203A        NoSymbol
+keycode  18 =            plus               4       plusminus        NoSymbol
+keycode  19 =    bracketright               6          endash          emdash
+keycode  20 =          exclam               8      exclamdown        infinity
+keycode  21 =      numbersign           grave      numerosign      dead_grave
+
+keycode   9 =          Escape        NoSymbol        NoSymbol        NoSymbol
+keycode  24 =               k               K      odiaeresis      Odiaeresis
+keycode  25 =           comma            less    dead_cedilla   guillemotleft
+keycode  26 =               u               U          uacute          Uacute
+keycode  27 =               y               Y      udiaeresis      Udiaeresis
+keycode  28 =               p               P        NoSymbol        NoSymbol
+keycode  29 =               w               W        NoSymbol        NoSymbol
+keycode  30 =               l               L        NoSymbol        NoSymbol
+keycode  31 =               m               M              mu        NoSymbol
+keycode  32 =               f               F        NoSymbol        NoSymbol
+keycode  33 =               c               C       copyright        NoSymbol
+keycode  34 =           slash        question        division    questiondown
+keycode  35 =              at     asciicircum           U203D dead_circumflex
+keycode  36 =          Return        NoSymbol       paragraph        NoSymbol
+
+keycode  38 =               o               O          oacute          Oacute
+keycode  39 =               a               A          aacute          Aacute
+keycode  40 =               e               E          eacute          Eacute
+keycode  41 =               i               I          iacute          Iacute
+keycode  42 =               d               D             eth             Eth
+keycode  43 =               r               R        NoSymbol        NoSymbol
+keycode  44 =               n               N          ntilde          Ntilde
+keycode  45 =               t               T           thorn           Thorn
+keycode  46 =               h               H        NoSymbol        NoSymbol
+keycode  47 =               s               S          ssharp         section
+keycode  48 =           minus      underscore           U2010     dead_macron
+keycode  51 =       backslash             bar        NoSymbol        NoSymbol
+
+keycode  94 =       Multi_key  dead_abovering     dead_ogonek   dead_abovedot
+keycode  52 =               q               Q      adiaeresis      Adiaeresis
+keycode  53 =          period         greater        ellipsis  guillemotright
+keycode  54 =      apostrophe        quotedbl      dead_acute  dead_diaeresis
+keycode  55 =       semicolon           colon  periodcentered        NoSymbol
+keycode  56 =               z               Z        NoSymbol        NoSymbol
+keycode  57 =               x               X        multiply        NoSymbol
+keycode  58 =               v               V        NoSymbol        NoSymbol
+keycode  59 =               g               G        NoSymbol        NoSymbol
+keycode  60 =               b               B        NoSymbol        NoSymbol
+keycode  61 =               j               J        NoSymbol        NoSymbol
+
+keycode  65 =           space           space    nobreakspace       thinspace
+keycode 108 =     Mode_switch        NoSymbol        NoSymbol        NoSymbol
+keycode 133 =         Super_L        NoSymbol       Multi_key        NoSymbol
+keycode 134 =         Super_R        NoSymbol       Multi_key        NoSymbol
+
+keycode 111 =              Up        NoSymbol           U2191        NoSymbol
+keycode 113 =            Left        NoSymbol           U2190        NoSymbol
+keycode 116 =            Down        NoSymbol           U2193        NoSymbol
+keycode 114 =           Right        NoSymbol           U2192        NoSymbol
+
+keycode 106 =       KP_Divide        NoSymbol       parenleft        NoSymbol
+keycode  63 =     KP_Multiply        NoSymbol      parenright        NoSymbol
+keycode  82 =     KP_Subtract        NoSymbol          dollar        NoSymbol
+keycode  79 =         KP_Home            KP_7               D        NoSymbol
+keycode  80 =           KP_Up            KP_8               E        NoSymbol
+keycode  81 =        KP_Prior            KP_9               F        NoSymbol
+keycode  86 =          KP_Add        NoSymbol           comma        NoSymbol
+keycode  83 =         KP_Left            KP_4               A        NoSymbol
+keycode  84 =        KP_Begin            KP_5               B        NoSymbol
+keycode  85 =        KP_Right            KP_6               C        NoSymbol
+keycode  87 =          KP_End            KP_1        KP_Equal        NoSymbol
+keycode  88 =         KP_Down            KP_2        multiply        NoSymbol
+keycode  89 =         KP_Next            KP_3        division        NoSymbol
+keycode  90 =       KP_Insert            KP_0           colon        NoSymbol
+keycode  91 =       KP_Delete      KP_Decimal       backslash        NoSymbol
+
+clear  Lock
+add control =       Caps_Lock
