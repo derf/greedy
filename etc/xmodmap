@@ -60,9 +60,9 @@ keycode 133 =         Super_L        NoSymbol       Multi_key        NoSymbol
 keycode 134 =         Super_R        NoSymbol       Multi_key        NoSymbol
 
 keycode 111 =              Up        NoSymbol           U2191        NoSymbol
-keycode 113 =            Left        NoSymbol           U2190        NoSymbol
+keycode 113 =            Left        NoSymbol           U2190           U25C4
 keycode 116 =            Down        NoSymbol           U2193        NoSymbol
-keycode 114 =           Right        NoSymbol           U2192        NoSymbol
+keycode 114 =           Right        NoSymbol           U2192           U25BA
 
 keycode 106 =       KP_Divide        NoSymbol       parenleft        NoSymbol
 keycode  63 =     KP_Multiply        NoSymbol      parenright        NoSymbol
