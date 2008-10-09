@@ -55,16 +55,16 @@ keycode  60 =               b               B        NoSymbol        NoSymbol
 keycode  61 =               j               J        NoSymbol        NoSymbol
 
 keycode  65 =           space           space    nobreakspace       thinspace
-keycode 113 =     Mode_switch        NoSymbol        NoSymbol        NoSymbol
-keycode 115 =         Super_L        NoSymbol       Multi_key        NoSymbol
-keycode 116 =         Super_R        NoSymbol       Multi_key        NoSymbol
+keycode 108 =     Mode_switch        NoSymbol        NoSymbol        NoSymbol
+keycode 133 =         Super_L        NoSymbol       Multi_key        NoSymbol
+keycode 134 =         Super_R        NoSymbol       Multi_key        NoSymbol
 
-keycode  98 =              Up        NoSymbol           U2191        NoSymbol
-keycode 100 =            Left        NoSymbol           U2190           U25C4
-keycode 104 =            Down        NoSymbol           U2193        NoSymbol
-keycode 102 =           Right        NoSymbol           U2192           U25BA
+keycode 111 =              Up        NoSymbol           U2191        NoSymbol
+keycode 113 =            Left        NoSymbol           U2190           U25C4
+keycode 116 =            Down        NoSymbol           U2193        NoSymbol
+keycode 114 =           Right        NoSymbol           U2192           U25BA
 
-keycode 112 =       KP_Divide        NoSymbol       parenleft        NoSymbol
+keycode 106 =       KP_Divide        NoSymbol       parenleft        NoSymbol
 keycode  63 =     KP_Multiply        NoSymbol      parenright        NoSymbol
 keycode  82 =     KP_Subtract        NoSymbol          dollar        NoSymbol
 keycode  79 =         KP_Home            KP_7               D        NoSymbol
