@@ -1,4 +1,4 @@
-xprefix = /usr/share/x11/xkb/symbols
+xprefix = /usr/share/X11/xkb/symbols
 
 install:
 	sudo cp etc/xkbmap $(xprefix)/greedy
