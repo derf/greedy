@@ -1,3 +1,0 @@
-#!/usr/bin/env zsh
-setxkbmap us
-xmodmap ~/packages/greedy/etc/xmodmap-evdev

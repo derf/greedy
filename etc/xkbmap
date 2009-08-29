@@ -4,8 +4,9 @@ xkb_symbols "greedy" {
    name[Group1]= "Greedy";
 
    key <TAB>  { [       Tab ] };
-   key <ESC>  { [    Escabe ] };
+   key <ESC>  { [    Escape ] };
    key <CAPS> { [ Control_L ] };
+   key <LSGT> { [ Multi_key ] };
    modifier_map Control { <CAPS>, <LCTL> };
 
    key <TLDE> { [    dollar, asciitilde,      EuroSign, dead_tilde ] };
@@ -58,6 +59,11 @@ xkb_symbols "greedy" {
    key <AB08>  { [         g,          G,    NoSymbol,    NoSymbol ] };
    key <AB09>  { [         b,          B,    NoSymbol,    NoSymbol ] };
    key <AB10>  { [         j,          J,    NoSymbol,    NoSymbol ] };
+
+   key <LEFT>  { [      Left,       Left,   0x1002190,   0x1002190 ] };
+   key <UP>    { [        Up,         Up,   0x1002191,   0x1002191 ] };
+   key <RGHT>  { [     Right,      Right,   0x1002192,   0x1002192 ] };
+   key <DOWN>  { [      Down,       Down,   0x1002193,   0x1002193 ] };
 
    include "level3(ralt_switch)"
 };
