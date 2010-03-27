@@ -1,7 +1,7 @@
 xprefix = /usr/share/X11/xkb/symbols
 
 install:
-	sudo cp etc/xkbmap $(xprefix)/greedy
+	sudo cp maps/xkbmap $(xprefix)/greedy
 	sudo chmod 644 $(xprefix)/greedy
 
 uninstall:
