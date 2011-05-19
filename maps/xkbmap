@@ -45,7 +45,7 @@ xkb_symbols "greedy" {
    key <AC07>  { [         n,          N,      ntilde,      Ntilde ] };
    key <AC08>  { [         t,          T,       thorn,       Thorn ] };
    key <AC09>  { [         h,          H,    NoSymbol,    NoSymbol ] };
-   key <AC10>  { [         s,          S,      ssharp,     section ] };
+   key <AC10>  { [         s,          S,      ssharp,   0x1001E9E ] };
    key <AC11>  { [     minus, underscore,   0x1002010, dead_macron ] };
    key <BKSL>  { [ backslash,        bar,    NoSymbol,    NoSymbol ] };
 
