@@ -15,7 +15,7 @@ xkb_symbols "greedy" {
    key <AE03> { [ braceleft,          5,     0x100201C,  0x1002018 ] };
    key <AE04> { [ braceright,         3,     0x100201D,  0x1002019 ] };
    key <AE05> { [ parenleft,          1,     0x1002039,   NoSymbol ] };
-   key <AE06> { [     equal,          9,     0x1002260,   NoSymbol ] };
+   key <AE06> { [     equal,          9,     0x1002260,  0x1002261 ] };
    key <AE07> { [  asterisk,          0,     0x10022C5,   NoSymbol ] };
    key <AE08> { [ parenright,         2,     0x100203A,   NoSymbol ] };
    key <AE09> { [      plus,          4,     plusminus,   NoSymbol ] };
@@ -46,7 +46,7 @@ xkb_symbols "greedy" {
    key <AC08>  { [         t,          T,       thorn,       Thorn ] };
    key <AC09>  { [         h,          H,    NoSymbol,    NoSymbol ] };
    key <AC10>  { [         s,          S,      ssharp,   0x1001E9E ] };
-   key <AC11>  { [     minus, underscore,   0x1002010, dead_macron ] };
+   key <AC11>  { [     minus, underscore,   0x1002010,   0x10000AC ] };
    key <BKSL>  { [ backslash,        bar,    NoSymbol,    NoSymbol ] };
 
    key <AB01>  { [         q,          Q,  adiaeresis,  Adiaeresis ] };
