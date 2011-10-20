@@ -60,10 +60,10 @@ xkb_symbols "greedy" {
    key <AB09>  { [         b,          B,    NoSymbol,    NoSymbol ] };
    key <AB10>  { [         j,          J,    NoSymbol,    NoSymbol ] };
 
-   key <LEFT>  { [      Left,       Left,   0x1002190,   0x1002190 ] };
-   key <UP>    { [        Up,         Up,   0x1002191,   0x1002191 ] };
-   key <RGHT>  { [     Right,      Right,   0x1002192,   0x1002192 ] };
-   key <DOWN>  { [      Down,       Down,   0x1002193,   0x1002193 ] };
+   key <LEFT>  { [      Left,       Left,   0x1002190,   0x10021D0 ] };
+   key <UP>    { [        Up,         Up,   0x1002191,   0x10021D1 ] };
+   key <RGHT>  { [     Right,      Right,   0x1002192,   0x10021D2 ] };
+   key <DOWN>  { [      Down,       Down,   0x1002193,   0x10021D3 ] };
 
    include "level3(ralt_switch)"
 };
